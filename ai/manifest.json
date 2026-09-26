@@ -1,16 +1,16 @@
 {
- "version": "2026.09.4",
+ "version": "2026.09.5",
  "data_sha256": {
-  "01_data/VERSION": "5eeda7af84cc9e1af28a3d267857f56d0a34c057a4cbc0aeff7806cfadaa5cc8",
+  "01_data/VERSION": "479c71b6e6812608655beacb4c1fd1b047daac2290d4b40487815707dba99453",
   "01_data/categories.json": "ef7ba8e2b29f47b6eb27f729068753a1354a923cc61964536b61f9c538dcff76",
-  "01_data/changelog.md": "6ce45d7c62cc2f17df7047c25581875a583ea5115b797266c0f89d3922d5d85e",
+  "01_data/changelog.md": "84ea05f7ce9c4737dab26e7fb5bb1d8c32fd5bcf0c0546549df75f2ef85192c9",
   "01_data/fonts/assets.json": "c3d337d91671e69e60fb808060cb78dc8f6eb21121ce411dc6a149ceb8c021c8",
   "01_data/fonts/index.json": "8e98dc76aa2c3af8a5ba0bf448fa440d540e648f6a14de1c22448d59c5a8121f",
   "01_data/fonts/pairs.json": "5a4a93244d857637ab56181800f844cdf537fc9877ed548bba54edbf73fea85e",
   "01_data/fonts/specimen-fonts.css": "acc3f2a4876e650a4646329bdcd3c4c88633c60369430c56629bd89f47ac6536",
   "01_data/forty.json": "199c11bd28c68f8b6078e07cb9bdfcf661afa60fbccb7a56bf330e40b3cc85ea",
   "01_data/id-map.json": "0d344f6ba063069b3dec02b708d5aeaa3cbfd8f80cd9e6ef1e025247552f2cbf",
-  "01_data/items.json": "7d395a5d9ac5424b883bc525e9ee9d365b202a516db7f2c5783609adeb6d63c1",
+  "01_data/items.json": "8c6e822c81f11968096cbe1ddc6ba76c3edf969c535fd1338a05e0a7f131b373",
   "01_data/legacy/v1-entries.json": "3fcf1890ba260156c9482aee250e098d12a9ab1af99635d9ea9cbab2366a60ad",
   "01_data/media.json": "324761f06c5d0b0df6329bb387bf1b3efe7decdfa9e41a13ba3b0e0b773b4200",
   "01_data/sources.json": "1e2015c387fc96197d2e043a07f8e95ea0d9146d116e3f32e60f8b3ec02c3625"
