@@ -1,9 +1,9 @@
 {
- "version": "2026.09.3",
+ "version": "2026.09.4",
  "data_sha256": {
-  "01_data/VERSION": "ec3a48b6b58ec84cb2c425ed83bf54600c1dc038e9908b740356c80961363903",
+  "01_data/VERSION": "5eeda7af84cc9e1af28a3d267857f56d0a34c057a4cbc0aeff7806cfadaa5cc8",
   "01_data/categories.json": "ef7ba8e2b29f47b6eb27f729068753a1354a923cc61964536b61f9c538dcff76",
-  "01_data/changelog.md": "13ae8c866c2aaba83da2187846d4f3cad57daebb0ee3abf85c851fef09688396",
+  "01_data/changelog.md": "6ce45d7c62cc2f17df7047c25581875a583ea5115b797266c0f89d3922d5d85e",
   "01_data/fonts/assets.json": "c3d337d91671e69e60fb808060cb78dc8f6eb21121ce411dc6a149ceb8c021c8",
   "01_data/fonts/index.json": "8e98dc76aa2c3af8a5ba0bf448fa440d540e648f6a14de1c22448d59c5a8121f",
   "01_data/fonts/pairs.json": "5a4a93244d857637ab56181800f844cdf537fc9877ed548bba54edbf73fea85e",
