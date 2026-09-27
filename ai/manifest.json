@@ -1,9 +1,9 @@
 {
- "version": "2026.09.6",
+ "version": "2026.09.7",
  "data_sha256": {
-  "01_data/VERSION": "91efc42a91ac6e506722d40d9f7f035e5807f50458c2264dcfda61f05b2c51b1",
+  "01_data/VERSION": "65d364a22e92eb7202677e9255be4aa237f852726ea06bda4102a583bd9a8794",
   "01_data/categories.json": "ef7ba8e2b29f47b6eb27f729068753a1354a923cc61964536b61f9c538dcff76",
-  "01_data/changelog.md": "b3ece489784916d5a5fa5b0da67989c935a09fe389a6bd7f34fa769b7a93710d",
+  "01_data/changelog.md": "f7c0982fed1070f0167bb75fc4ef545592fe5b07f4020e6abd8df68a050f146a",
   "01_data/fonts/assets.json": "c3d337d91671e69e60fb808060cb78dc8f6eb21121ce411dc6a149ceb8c021c8",
   "01_data/fonts/index.json": "8e98dc76aa2c3af8a5ba0bf448fa440d540e648f6a14de1c22448d59c5a8121f",
   "01_data/fonts/pairs.json": "5a4a93244d857637ab56181800f844cdf537fc9877ed548bba54edbf73fea85e",
@@ -13,6 +13,7 @@
   "01_data/items.json": "8adaca4c86b8779d09e254fae824d075474dab76467f77130c5721e8e3203c35",
   "01_data/legacy/v1-entries.json": "3fcf1890ba260156c9482aee250e098d12a9ab1af99635d9ea9cbab2366a60ad",
   "01_data/media.json": "324761f06c5d0b0df6329bb387bf1b3efe7decdfa9e41a13ba3b0e0b773b4200",
+  "01_data/motion_recipes.json": "d790d471b80a8b21a4ab2ec7e4b223dc6a1a2f163a778a5539e1cf729927e3b9",
   "01_data/sources.json": "dab4ecdd89bf0c5eb67c024b1c127114af2552b5b7775a3f56efc2235a090718"
  }
 }
